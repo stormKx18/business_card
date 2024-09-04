@@ -2,8 +2,7 @@ html,
 body {
   margin: 0;
   box-sizing: border-box;
-  height: 98%;
-  margin: 10px 0;
+  height: 100%;
   background-color: #23252c;
   font-family: inter, sans-serif;
 }
