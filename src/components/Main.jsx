@@ -7,7 +7,7 @@ export default function Main() {
         computing, web apps and mobile apps.
       </p>
       <p className="main-title">Interests</p>
-      <p>Data scructures, web scrapping, task automation.</p>
+      <p>Data scructures, web scrapping, task automation, data analysis.</p>
     </div>
   );
 }
